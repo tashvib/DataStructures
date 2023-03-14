@@ -8,7 +8,7 @@ import java.util.ArrayList;
 
 public class List {
     public static void main(String[] args) {
-        ArrayList<char> a = new ArrayList<char>();
+        ArrayList<Character> a = new ArrayList<Character>();
         // ['a', 'a', 'a', 'b', 'c', 'a']
         //go to 3, replace a[3] = newChar
         //for every char after that, move it to the right 
